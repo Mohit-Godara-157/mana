@@ -243,6 +243,7 @@ td {
 
 .hover_text_white:hover {
   color: #073937 !important;
+  text-decoration: none !important;
 }
 
 

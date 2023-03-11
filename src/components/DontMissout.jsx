@@ -12,7 +12,7 @@ function DontMissout() {
                 <h2 className='pt-5 mt-4 fs_xxxxl fw-bold  text_green_50 ff_TimesNewRoman text-center '>Don't miss out</h2>
                 <p className='text-center fs_lg fw-normal text_green_50 ff_OpenSans mw_xl_501 mx-auto'>The best homes sell fast. See the latest listings, inspiring second homes and buying tips.</p>
                 <div className='mw_xl_501 mx-auto mt-5'>
-                    <input type="text" className='border-0 bg-transparent outline_none' placeholder='ENTER  EMAIL' />
+                    <input type="text" className='border-0 bg-transparent outline_none w-100' placeholder='ENTER  EMAIL' />
                     <div className='border_bottom'></div>
                     <p className='mb-0 pt-4 fs_lg fw-normal text_green_50 ff_OpenSans'>Select one of the following:</p>
                     <div className='align-items-center mt-2 d-sm-flex justify-content-between'>

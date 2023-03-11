@@ -25,7 +25,7 @@ function Footer() {
                     </Col>
                     <Col xsm={12} xl={6} className='my-3'>
                         <Row className='align-items-start'>
-                            <Col className='my-3' sm={6} lg={4}>
+                            <Col className='my-3' xs={6} md={4}>
                                 <ul className='p-0'>
                                     <li className='fs_sm fw-semibold  text-white ff_OpenSans'>OFFERINGS</li>
                                     <li className='mt-3'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Learn</a></li>
@@ -37,7 +37,7 @@ function Footer() {
 
                                 </ul>
                             </Col>
-                            <Col className='my-3' sm={6} lg={4}>
+                            <Col className='my-3' xs={6} md={4}>
                                 <ul className='p-0'>
                                     <li className='fs_sm fw-semibold  text-white ff_OpenSans'>ABOUT</li>
                                     <li className='mt-3'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Our story</a></li>
@@ -49,7 +49,7 @@ function Footer() {
 
                                 </ul>
                             </Col>
-                            <Col className='my-3' sm={6} lg={4}>
+                            <Col className='my-3' xs={6} md={4}>
                                 <ul className='p-0'>
                                     <li className='fs_sm fw-semibold  text-white ff_OpenSans'>SUPPORT</li>
                                     <li className='mt-3'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Resources</a></li>
