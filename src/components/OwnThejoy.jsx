@@ -15,7 +15,7 @@ function OwnThejoy() {
                         </Col>
                         <Col xsm={12} lg={6} className='my-3 ps-xl-5'>
                             <h4 className='ff_TimesNewRoman text_green_50 fw-bold fs_xxxxl'>Own the joy</h4>
-                            <p className='text_green_50 fw-normal fs_lg mw_xl_401'>Start enriching your life today, not "someday." We're here to help you experience the joy of second home ownership. With Mana, you own a spectacular second home for 1/8 of the cost, while avoiding the hassles of traditional ownership.</p>
+                            <p className='text_green_50 fw-normal ff_OpenSans fs_lg mw_xl_401'>Start enriching your life today, not "someday." We're here to help you experience the joy of second home ownership. With Mana, you own a spectacular second home for 1/8 of the cost, while avoiding the hassles of traditional ownership.</p>
                             <div><a className='ff_OpenSans  hover_text_white fs_lg fw-semibold text_green_50  text-decoration-underline' href="#">GET STARTED</a></div>
 
                         </Col>
