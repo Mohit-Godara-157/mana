@@ -28,36 +28,36 @@ function Footer() {
                             <Col className='my-3' sm={6} lg={4}>
                                 <ul className='p-0'>
                                     <li className='fs_sm fw-semibold  text-white ff_OpenSans'>OFFERINGS</li>
-                                    <li className='mt-3'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Learn</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Listings</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Scheduling</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Financing</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Closing</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Selling</a></li>
+                                    <li className='mt-3'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Learn</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Listings</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Scheduling</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Financing</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Closing</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Selling</a></li>
 
                                 </ul>
                             </Col>
                             <Col className='my-3' sm={6} lg={4}>
                                 <ul className='p-0'>
                                     <li className='fs_sm fw-semibold  text-white ff_OpenSans'>ABOUT</li>
-                                    <li className='mt-3'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Our story</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Agents</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Careers</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Get the inside story</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Press</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Communities</a></li>
+                                    <li className='mt-3'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Our story</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Agents</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Careers</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Get the inside story</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Press</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Communities</a></li>
 
                                 </ul>
                             </Col>
                             <Col className='my-3' sm={6} lg={4}>
                                 <ul className='p-0'>
                                     <li className='fs_sm fw-semibold  text-white ff_OpenSans'>SUPPORT</li>
-                                    <li className='mt-3'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Resources</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">FAQs</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Privacy</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Candidate Privacy</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Sitemap</a></li>
-                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-semibold  text-white ff_OpenSans' href="#">Contact</a></li>
+                                    <li className='mt-3'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Resources</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">FAQs</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Privacy</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Candidate Privacy</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Sitemap</a></li>
+                                    <li className='mt-2'><a className='fs_sm hover_line position-relative fw-normal  text-white ff_OpenSans' href="#">Contact</a></li>
 
                                 </ul>
                             </Col>

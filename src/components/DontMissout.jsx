@@ -30,7 +30,7 @@ function DontMissout() {
                         </div>
                     </div>
                     <div className='d-flex justify-content-center mt-5'><a className='heroBtn fs_xl fw-bold ff_OpenSans text-white ' href="#">SUBSCRIBE</a></div>
-                    <p className='mt-3 fs_xsm fw-normal ff_OpenSans text_green_50 '>I give mana permission to contact me & agree to the  <span className='fw-semibold'>terms</span>.This site is protected by reCAPTCHA and the Google <span className='fw-semibold'>privacy policy</span> & <span className='fw-semibold'> terms of service</span>.</p>
+                    <p className='mt-3 fs_xsm fw-normal ff_OpenSans text_green_50 text-center '>I give mana permission to contact me & agree to the  <span className='fw-semibold'>terms</span>.This site is protected by reCAPTCHA and the Google <span className='fw-semibold'>privacy policy</span> & <span className='fw-semibold'> terms of service</span>.</p>
                     <p className='fs_lg text-center fw-normal ff_OpenSans text_green_50 mb-0 pb-5'>Want to chat? <span className='fw-semibold text-decoration-underline'> Contact us</span>.</p>
                 </div>
             </Container>

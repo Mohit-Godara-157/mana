@@ -23,7 +23,7 @@ function OwnThejoy() {
                     <Row className='py-lg-5 align-items-center'>
                         <Col xl={5} xsm={6} className='my-3'>
                             <h4 className='ff_TimesNewRoman text_green_50 fw-bold fs_xxxxl'>Forget timeshares</h4>
-                            <p className='text_green_50 fw-normal fs_lg mw_xl_401'>With Mana, you own a home, not just a block of time. You can book stays throughout the year, not annually. And resale? It's fast and streamlined, and you set the price.</p>
+                            <p className='text_green_50 fw-normal fs_lg mw_xl_401 ff_OpenSans'>With Mana, you own a home, not just a block of time. You can book stays throughout the year, not annually. And resale? It's fast and streamlined, and you set the price.</p>
                             <div><a className='ff_OpenSans  hover_text_white fs_lg fw-semibold text_green_50  text-decoration-underline' href="#">GET STARTED</a></div>
                         </Col>
                         <Col xl={7} xsm={6} className='my-3'>
