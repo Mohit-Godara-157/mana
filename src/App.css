@@ -200,7 +200,10 @@ td {
 .outline_none {
   outline: none;
 }
-
+.app_border{
+  border: 2.4px solid #FFFFFF !important;
+  border-radius: 7px;
+}
 .border_bottom {
   border-top: none;
   border-left: none;

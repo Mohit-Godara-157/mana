@@ -66,10 +66,10 @@ function Footer() {
                     </Col>
                 </Row>
                 <div className='footer_lines '></div>
-                <div className='d-lg-flex justify-content-between pe-5 align-items-center '>
-                    <div className='d-sm-flex py-3 py-sm-4 align-items-center '>
-                        <a className='ms-2' href="#"><img className='my-2' src={googlePlay} alt="googlePlay" /></a>
-                        <a href="#"><img className='my-2' src={appStore} alt="appStore" /></a>
+                <div className='d-lg-flex justify-content-between pe-lg-5 align-items-center '>
+                    <div className='d-sm-flex py-3 py-sm-3 align-items-center '>
+                        <a className=' my-2 d-flex justify-content-center' href="#"><img src={googlePlay} alt="googlePlay" /></a>
+                        <a href="#" className='my-2 ms-sm-2 d-flex justify-content-center'><img className='px-2 app_border' src={appStore} alt="appStore" /></a>
                     </div>
                     <a className='p-4 p-lg-0 ' href="#"><img className='my-2 my-lg-0' src={insta} alt="insta" /></a>
                     <a className='p-4 p-lg-0 ' href="#"><img className='my-2 my-lg-0' src={path} alt="path" /></a>
