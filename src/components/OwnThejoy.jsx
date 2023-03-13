@@ -1,6 +1,7 @@
 import React from 'react'
 import joyImage from '../assets/img/png/joyImage.png'
 import positionImage1 from '../assets/img/png/positionImage1.png'
+import playBtn from '../assets/img/svg/playBtn.svg'
 import { Container, Row, Col } from 'react-bootstrap'
 
 function OwnThejoy() {
@@ -10,7 +11,8 @@ function OwnThejoy() {
             <div className='hero_Bg mt-5'>
                 <Container>
                     <Row className='py-5 mt-xl-5 align-items-center'>
-                        <Col xsm={12} lg={6} className='my-3'>
+                        <Col xsm={12} lg={6} className='my-3 position-relative'>
+                            <img className='position-absolute center_image' width={60} src={playBtn} alt="playBtn" />
                             <img src={joyImage} className='w-100' alt="joyImage" />
                         </Col>
                         <Col xsm={12} lg={6} className='my-3 ps-xl-5'>

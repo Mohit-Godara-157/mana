@@ -18,9 +18,9 @@ function Footer() {
                         <img src={logo} width={90} alt="logo" />
                         <h5 className='fs_sm fw-semibold mt-4 text-white ff_OpenSans '>SIGN UP FOR FULL ACCESS</h5>
                         <p className='fs_sm fw-normal mt-4 text-white ff_OpenSans'>Unlock exclusive features & receive updates</p>
-                        <div className='bg-white b_radius_31  mw_344 d-flex align-items-center mt-4'>
+                        <div className='bg-white b_radius_31 justify-content-between mw_344 d-flex align-items-center mt-4'>
                             <input type="email" placeholder='Email' className='border-0 outline_none py_20 ps-1 ps-sm-4 pe-4 b_radius_31 ff_OpenSans fs_sm fw-normal' />
-                            <div className='d-flex justify-content-end'><a className='footer_btn ff_OpenSans fs_sm fw-semibold text-white' href="#">UNLOCK</a></div>
+                            <div className='me-1'><a className='footer_btn ff_OpenSans fs_sm fw-semibold text-white' href="#">UNLOCK</a></div>
                         </div>
                     </Col>
                     <Col xsm={12} xl={6} className='my-3'>

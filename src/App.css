@@ -126,6 +126,17 @@
   height: 85vh;
 }
 
+.center_image {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.image_absolute {
+  bottom: 7%;
+  right: 7%;
+}
+
 .border_card {
   border: 1px solid #B7C6C5;
 }
@@ -191,9 +202,11 @@ td {
 }
 
 .border_bottom {
-  border-bottom: 1px;
-  border-style: solid;
-  border-color: #073937;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #073937;
+
 }
 
 /* hover */
